@@ -1,0 +1,5 @@
+{
+  "name": "Customer Service Snippet Manager",
+  "description": "An application to easily access and copy predefined customer service message snippets for different shipping statuses.",
+  "requestFramePermissions": []
+}
